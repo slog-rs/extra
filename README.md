@@ -14,7 +14,7 @@
   </a>
 </p>
 
-[slog-rs]: //github.com/slog-rs/core
+[slog-rs]: //github.com/slog-rs/slog
 
 This crates contains slog-rs extensions that don't belong to the core `slog` crate due to:
 
